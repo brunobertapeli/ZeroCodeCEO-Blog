@@ -9,6 +9,9 @@ import {
   TagIcon
 } from '@heroicons/react/24/outline';
 
+// Import global styles
+import './index.css';
+
 // Import pages
 import Features from './pages/features';
 import Pricing from './pages/pricing';
